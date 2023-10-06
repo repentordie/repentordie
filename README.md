@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Lap. a Russian trash-coder
-- 👀 I do useless stuff with Tk, Python, TCL and a pinch of magic
-- 🌱 I’m currently learning not to procrastinate 
-- 📫 Socials : @yepitslap on all platforms
+I do stuff that I like
+ @yepitslap on all platforms
