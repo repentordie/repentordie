@@ -1,3 +1,3 @@
-been codin, not anymore i guess
+russian trash-coder
 
 @yepitslap on all platforms
