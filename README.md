@@ -1,7 +1,7 @@
 @yepitslap on all platforms
 
 
-Hey! I'm Лэп. (pronounced "lap" in eng.), I'm the type of guy that likes his programs to suffer instead of him. <br />
+Hey! I'm Лэп. (pronounced "lap" in eng.), I'm the type of guy that likes to make his programs suffer instead of him. <br />
 Check out my non-NDA projects <br />
 [Like that one time when I made a batch script that does sysadmining for you](https://github.com/lap-does-things/-) <br />
 [...or a worse version of Youtube Music](https://github.com/lap-does-things/Pluto) <br />
