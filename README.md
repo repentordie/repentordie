@@ -1,4 +1,4 @@
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)](https://badges.pufler.dev)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)](https://app.codacy.com/gh/lap-does-things/bash-warp-generator/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)](https://badges.pufler.dev)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
 
 @yepitslap on all platforms
 
