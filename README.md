@@ -1,3 +1,5 @@
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)](https://badges.pufler.dev) 
+
 @yepitslap on all platforms
 
 
