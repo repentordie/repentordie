@@ -6,7 +6,6 @@
 Hey! I'm Лэп. (pronounced "lap" in eng.), I'm the type of guy that likes to make his programs suffer instead of him. <br />
 Check out my non-NDA projects <br />
 [Like that one time when I made a batch script that does sysadmining for you](https://github.com/lap-does-things/-) <br />
-[...or a worse version of Youtube Music](https://github.com/lap-does-things/Pluto) <br />
 [...or a desktop app designed and engineered to pirate Microsoft's commercial products](https://github.com/lap-does-things/Windows-Manager) <br />
 [...or a literal doxxing\ddosing tool within 110KB](https://github.com/lap-does-things/Nebula) <br />
 [...or NOFACE, for whatever that's worth](https://github.com/Unproductive-Lab/NO-FACE) <br />
