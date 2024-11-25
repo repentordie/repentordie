@@ -9,7 +9,7 @@ Check out my non-NDA projects <br />
 [...or a desktop app designed and engineered to pirate Microsoft's commercial products](https://github.com/lap-does-things/Windows-Manager) <br />
 [...or a literal doxxing\ddosing tool within 110KB](https://github.com/lap-does-things/Nebula) <br />
 [...or NOFACE, for whatever that's worth](https://github.com/Unproductive-Lab/NO-FACE) <br />
-[...or a bot that automatically flips Linus Torwarlds off](https://github.com/lap-does-things/fucklinus) <br />
+[...or a bot that automatically flips Linus Torvarlds off](https://github.com/lap-does-things/fucklinus) <br />
 
 also known as СЛОН ИЗ МХА (пиздец)
      
