@@ -1,6 +1,6 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things)](https://badges.pufler.dev) **Solo :** [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/lap-does-things)) **[Unproductive](https://github.com/Unproductive-Lab) :** [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/Unproductive-Lab)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lap-does-things&layout=pie&theme=dark%locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lap-does-things&layout=pie&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 **@yepitslap on all platforms** <br>
 **1\2 of [Unproductive](https://github.com/Unproductive-Lab) <br />**
