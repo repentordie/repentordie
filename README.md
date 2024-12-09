@@ -12,7 +12,7 @@ Check out my non-NDA projects <br />
 [...or a literal doxxing\ddosing tool within 110KB](https://github.com/lap-does-things/Nebula) <br />
 [...or NOFACE, for whatever that's worth](https://github.com/Unproductive-Lab/NO-FACE) <br />
 [...or a bot that automatically flips Linus Torvarlds off](https://github.com/lap-does-things/fucklinus) <br />
-[...or an in-dev ricing script suite]([https://github.com/lap-does-things/fucklinus](https://github.com/stars/lap-does-things/lists/ricing-kit)) <br />
+[...or an in-dev ricing script suite](https://github.com/stars/lap-does-things/lists/ricing-kit) <br />
 
 
 also known as СЛОН ИЗ МХА (пиздец)
