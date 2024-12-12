@@ -1,5 +1,6 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things)](https://badges.pufler.dev) **Solo :** [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/lap-does-things)) **[Unproductive](https://github.com/Unproductive-Lab) :** [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/Unproductive-Lab)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
 
+
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Stats </h2></summary>
   <div align="center">
