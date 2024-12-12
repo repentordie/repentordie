@@ -8,7 +8,7 @@
 <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
-      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lap-does-things)](https://github.com/anuraghazra/github-readme-stats)
+      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lap)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/lap-does-things/lap-does-things"><img alt="lap-does-things's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lap-does-things&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   <img src="https://wakatime.com/share/@lap-does-things/be301787-b26d-448c-bee8-731aa55076fb.svg">
   </div>
