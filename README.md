@@ -1,6 +1,25 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things)](https://badges.pufler.dev) **Solo :** [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/lap-does-things)) **[Unproductive](https://github.com/Unproductive-Lab) :** [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/Unproductive-Lab)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lap-does-things&layout=pie&theme=dark)](https://github.com/Unproductive-Lab) 
+<details open>
+<summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
+  <div align="center">
+    <img height="192px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lap-does-things&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=lap-does-things&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+<!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
+  </div>
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lap-does-things&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+  <a href="https://github.com/lap-does-things/lap-does-things"><img alt="lap-does-things's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lap-does-things&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <img src="https://wakatime.com/share/@lap-does-things/be301787-b26d-448c-bee8-731aa55076fb.svg">
+  </div>
+
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lap-does-things}/count.svg" /></p> 
+</div>
+<br>
+</details>
 
 **@yepitslap on all platforms** <br>
 **1\2 of [Unproductive](https://github.com/Unproductive-Lab) <br />**
