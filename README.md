@@ -10,7 +10,7 @@
   </div>
   <div align="center">
 
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lap&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000&v=2">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lap&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000&v=3">
   </div>
 
 <div align="center">
