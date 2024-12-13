@@ -10,11 +10,6 @@
   </div>
   <div align="center">
         <!--START_SECTION:waka-->
-    
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -23,7 +18,6 @@ Python                   8 mins              ███████████�
 ```
 
 
- Last Updated on 13/12/2024 15:06:21 UTC
 <!--END_SECTION:waka-->
  <!--  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lap&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">-->
   </div>
