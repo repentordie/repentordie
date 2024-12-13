@@ -9,7 +9,7 @@
 <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
-        <!--START_SECTION:waka--> 
+        <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
