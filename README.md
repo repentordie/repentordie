@@ -9,17 +9,8 @@
 <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
-        <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Python                   8 mins              █████████████████████████   100.00 % 
-```
-
-
-<!--END_SECTION:waka-->
- <!--  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lap&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000&v=2">-->
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lap&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000&v=2">
   </div>
 
 <div align="center">
