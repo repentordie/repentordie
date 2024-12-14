@@ -1,4 +1,4 @@
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things&v=3)](https://badges.pufler.dev) **Solo :** [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/lap-does-things)) **[Unproductive](https://github.com/Unproductive-Lab) :** [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/Unproductive-Lab&v=3)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things&v=3)](https://badges.pufler.dev) **Solo :** [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/lap-does-things&v=3)) **[Unproductive](https://github.com/Unproductive-Lab) :** [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/Unproductive-Lab&v=3)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
 
 
 <details open>
