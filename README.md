@@ -1,11 +1,11 @@
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things)](https://badges.pufler.dev) **Solo :** [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/lap-does-things)) **[Unproductive](https://github.com/Unproductive-Lab) :** [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/Unproductive-Lab)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things&v=3)](https://badges.pufler.dev) **Solo :** [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things&v=3)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/lap-does-things)) **[Unproductive](https://github.com/Unproductive-Lab) :** [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab&v=3)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/Unproductive-Lab)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
 
 
 <details open>
 <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Stats </h2></summary>
   <div align="center">
-    <img height="192px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lap-does-things&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=lap-does-things&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+    <img height="192px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lap-does-things&v=3&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=lap-does-things&v=3&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
   </div>
   <div align="center">
