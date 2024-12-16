@@ -2,7 +2,7 @@
 
 
 <details open>
-<summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=print(index.welcome))](https://git.io/typing-svg) </h2></summary>
+<summary align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=print(index.welcome))](https://git.io/typing-svg)</summary>
   <div align="center">
     <img height="192px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lap-does-things&v=5&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=lap-does-things&v=5&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
