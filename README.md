@@ -1,6 +1,6 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/lap-does-things&v=3)](https://badges.pufler.dev) **Solo :** [![Repos Badge](https://badges.pufler.dev/repos/lap-does-things)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/lap-does-things&v=3)) **[Unproductive](https://github.com/Unproductive-Lab) :** [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab)]([https://badges.pufler.dev](https://badges.pufler.dev/repos/Unproductive-Lab&v=3)) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=print(index.welcome))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%40yepitslap+on+all+platforms)](https://git.io/typing-svg)
 <details open>
 <summary align="center">Stats</summary>
   <div align="center">
@@ -20,7 +20,6 @@
 <br>
 </details>
 
-**@yepitslap on all platforms** <br>
 **1\2 of [Unproductive](https://github.com/Unproductive-Lab) <br />**
 
 Hey! I'm Лэп. (pronounced "lap" in eng.), I'm the type of guy that likes to make his programs suffer instead of him. <br />
