@@ -1,7 +1,8 @@
 <p align="center">
-  <img src=https://badges.pufler.dev/commits/monthly/lap-does-things&v=3> Solo : <img src=https://badges.pufler.dev/repos/lap-does-things> [Unproductive] : <img src=https://badges.pufler.dev/repos/Unproductive-Lab> <img src=https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145>
+  <img src=https://badges.pufler.dev/commits/monthly/lap-does-things&v=3> Solo : <img src=https://badges.pufler.dev/repos/lap-does-things> Unproductive : <img src=https://badges.pufler.dev/repos/Unproductive-Lab> <img src=https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145>
  <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Unproductive+CEO)](https://github.com/Unproductive-Lab)
+  <img src =https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Unproductive+CEO>
+[![Typing SVG]()](https://github.com/Unproductive-Lab)
 </p>
 <details open>
 <summary align="center">Stats</summary>
