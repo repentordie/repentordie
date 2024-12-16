@@ -23,7 +23,8 @@
 <br>
 </details>
 
-**1\2 of [Unproductive](https://github.com/Unproductive-Lab) <br />**
+
+<!--**1\2 of [Unproductive](https://github.com/Unproductive-Lab) <br />**
 
 Hey! I'm Лэп. (pronounced "lap" in eng.), I'm the type of guy that likes to make his programs suffer instead of him. <br />
 Check out my non-NDA projects <br />
