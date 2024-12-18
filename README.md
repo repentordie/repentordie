@@ -23,7 +23,7 @@
 <br>
 </details>
 <h6>we took a hundered percent unpredictable steps</h6>
-<p>
+<p align="center">
 <img src =https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Tech+Stack>
 </p>
 
