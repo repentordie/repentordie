@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center"><p>
   <h6>we took 100% unpredictable steps</h6>
   <img src=https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145>
-
+</p>
  <!-- <img src =https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Unproductive+CEO> -->
 </div>
 
