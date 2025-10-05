@@ -1,9 +1,9 @@
-<p align="center">
+<div align="center">
   <h6>we took 100% unpredictable steps</h6>
   <img src=https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145>
 
  <!-- <img src =https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Unproductive+CEO> -->
-</p>
+</div>
 
   <div align="center">
     <img height="192px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lap-does-things&v=14&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
