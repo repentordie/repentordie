@@ -1,5 +1,5 @@
 <p align="center">
-  <h6>we took a hundered percent unpredictable steps</h6>
+  <h6>we took one-hundred per cent unpredictable steps</h6>
   <img src=https://app.codacy.com/project/badge/Grade/9a8ec5c64ec445fb9fcd0ba7e04b7145>
 
  <!-- <img src =https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Unproductive+CEO> -->
