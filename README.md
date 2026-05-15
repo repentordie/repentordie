@@ -7,7 +7,7 @@
 
   <div align="center">
 
-   <figure><embed src="https://wakatime.com/share/@lap/221bdbb2-a457-4943-aad9-b72423462b86.svg"></embed></figure>
+  <embed src="https://wakatime.com/share/@lap/221bdbb2-a457-4943-aad9-b72423462b86.svg"></embed>
   </div>
 
 <div align="center">
